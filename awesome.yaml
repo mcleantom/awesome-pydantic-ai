@@ -1,5 +1,9 @@
 repositories:
-  - name: FastAPI
-    repo: https://github.com/tiangolo/fastapi
-    description: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
-    category: Web
+  - name: Pydantic AI Tutorial
+    repo: https://github.com/daveebbelaar/pydantic-ai-tutorial
+    description: Learn how to build AI agents with PydanticAI
+    category: Tutorial
+  - name: Multi Agent Pydantic AI
+    repo: https://github.com/cgoncalves94/multi-agent-pydanticAI
+    description: A full stack multi-agent chat system with PydanticAI
+    category: Full Stack
