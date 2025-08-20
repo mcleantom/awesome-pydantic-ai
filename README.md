@@ -5,9 +5,14 @@
 These packages have not been vetted or approved by the pydantic team.
 
 
-## Web
+## Full Stack
   
-- [FastAPI](https://github.com/tiangolo/fastapi) 🌟(88588) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [Multi Agent Pydantic AI](https://github.com/cgoncalves94/multi-agent-pydanticAI) 🌟(5) - A full stack multi-agent chat system with PydanticAI
+  
+
+## Tutorial
+  
+- [Pydantic AI Tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) 🌟(105) - Learn how to build AI agents with PydanticAI
   
 
 
