@@ -12,7 +12,7 @@ These packages have not been vetted or approved by the pydantic team.
 
 ## Tutorial
   
-- [Pydantic AI Tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) 🌟(128) - Learn how to build AI agents with PydanticAI
+- [Pydantic AI Tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) 🌟(129) - Learn how to build AI agents with PydanticAI
   
 
 
