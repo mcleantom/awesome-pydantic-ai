@@ -7,12 +7,12 @@ These packages have not been vetted or approved by the pydantic team.
 
 ## Full Stack
   
-- [Multi Agent Pydantic AI](https://github.com/cgoncalves94/multi-agent-pydanticAI) 🌟(9) - A full stack multi-agent chat system with PydanticAI
+- [Multi Agent Pydantic AI](https://github.com/cgoncalves94/multi-agent-pydanticAI) 🌟(10) - A full stack multi-agent chat system with PydanticAI
   
 
 ## Tutorial
   
-- [Pydantic AI Tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) 🌟(130) - Learn how to build AI agents with PydanticAI
+- [Pydantic AI Tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) 🌟(129) - Learn how to build AI agents with PydanticAI
   
 
 
